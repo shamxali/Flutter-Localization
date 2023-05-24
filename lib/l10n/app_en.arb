@@ -1,0 +1,4 @@
+{
+   "welcomeMessage": "Welcome to the app!",
+   "appVersion": "App version: {version}"
+}
